@@ -82,9 +82,17 @@ $success: #7952b3;
 
 body {
   padding: 3rem 1.5rem;
+  font-family: 'Roboto Mono', monospace;
+  background-color: #000000;
 }
 
 // Style Bootstrap icons
 .bi {
   fill: currentColor;
+}
+.btn-font {
+  font-family: 'Roboto Mono', monospace;
+}
+.matrix-green {
+  color: #27b012;
 }
